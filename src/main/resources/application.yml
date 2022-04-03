@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: car-service-client
+
+#eureka:
+#  client:
+#    service-url:
+#      defaultZone: http://localhost:8761
